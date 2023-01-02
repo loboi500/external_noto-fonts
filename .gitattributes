@@ -1,0 +1,13 @@
+other-vf filter=lfs diff=lfs merge=lfs -text
+OWNERS filter=lfs diff=lfs merge=lfs -text
+Android.bp filter=lfs diff=lfs merge=lfs -text
+cjk filter=lfs diff=lfs merge=lfs -text
+CleanSpec.mk filter=lfs diff=lfs merge=lfs -text
+emoji-compat filter=lfs diff=lfs merge=lfs -text
+emoji-compat-flatbuffers filter=lfs diff=lfs merge=lfs -text
+METADATA filter=lfs diff=lfs merge=lfs -text
+README.android filter=lfs diff=lfs merge=lfs -text
+fonts.mk filter=lfs diff=lfs merge=lfs -text
+other filter=lfs diff=lfs merge=lfs -text
+scripts filter=lfs diff=lfs merge=lfs -text
+TEST_MAPPING filter=lfs diff=lfs merge=lfs -text

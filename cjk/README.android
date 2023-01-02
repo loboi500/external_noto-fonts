@@ -1,11 +1,3 @@
-URL: https://github.com/googlei18n/noto-cjk/archive/master.zip
-Version: 2.001
-License: OFL 1.1
-License File: NOTICE
-
-Description:
-Noto CJK fonts, for supporting Chinese, Japanese, and Korean.
-
-Local Modifications:
-The fonts have been modified by subset_noto_cjk.py to remove cmap entries for characters that should default to emoji style in Android.
-The fonts have been modified by kojii@google.com to have chws table. See https://github.com/kojiishi/contextual-spacing for more details.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfe0a00b48109917d1b9d884856e84f61b0b516098b4e4b05eb6aaa3afd17a3a
+size 488
